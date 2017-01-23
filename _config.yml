@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Sof.L.X
+title: Majesty Parish
 email: solomonfaith53@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This site was created for graphic lovers. You can also join what we are doing here  (if you love computer graphical works) and in.
+  We are his majesty house parish based in zukoriko, kudenda, kaduna state, nigeria. We are a group of enthusiastic christians that love Jesus Christ, and serve him, His majesty parish is a church subsidiary of the redeemed christian church of God.Under kaduna province 1, House of his glory zone, Almond house area.  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: @solomonope1 
+twitter_username: solomonope1 
 github_username:  oluseg
 
 # Build settings
