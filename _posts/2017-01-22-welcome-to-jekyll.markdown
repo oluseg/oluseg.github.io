@@ -1,25 +1,21 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
-date:   2017-01-22 16:07:42 -0500
+layout: The majestic king
+title:  "Welcome to House of his majesty!"
+date:   2017-01-23 16:01:00 -0500
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Well you've hit the home of the king, say it, say it, yea `his majesty house parish` it's nice to have you join us. We are members of the Redeemed Christian Church of God (RCCG). Our vision and mission statement include: 
+Vision
+To make heaven
+To take as many as possible with us 
+Mission
+To fufil the above stated:
+Holiness must be our lifestyle 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Our church is excitingly strucured such that we have different groups such as the Good Women, Children/Teens, Men and Youth affairs.
 
-Jekyll also offers powerful support for code snippets:
+Check out our [youth handle][youth-handle] for more info on kaduna province 1 youth affairs. you can also get in touch with our church secretary [like][like]. If you have questions, and want to know more about the reedemed church visit [RCCG][RCCG].
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[youth-handle]: http://http://rccgkd1youths.com/
+[like]:  https://web.facebook.com/solomon.faith.35/
+[RCCG]: https://rccg.org/
